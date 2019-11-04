@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6506BA58-1AD7-4DBF-B8A7-E2A5105FACDB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Miniräknare PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Miniräknare/Calculator.cs">
+    <Files>
+      <File FileName="Miniräknare/Program.cs" Line="75" Column="10" />
+      <File FileName="Miniräknare/Calculator.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Miniräknare" expanded="True">
+            <Node name="Miniräknare" expanded="True">
+              <Node name="Calculator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

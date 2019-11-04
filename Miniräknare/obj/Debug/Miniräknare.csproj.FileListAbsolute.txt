@@ -1,0 +1,5 @@
+/Users/danielekroth/Projects/Csharp/Miniräknare/Miniräknare/obj/Debug/Miniräknare.csprojAssemblyReference.cache
+/Users/danielekroth/Projects/Csharp/Miniräknare/Miniräknare/bin/Debug/Miniräknare.exe
+/Users/danielekroth/Projects/Csharp/Miniräknare/Miniräknare/bin/Debug/Miniräknare.pdb
+/Users/danielekroth/Projects/Csharp/Miniräknare/Miniräknare/obj/Debug/Miniräknare.exe
+/Users/danielekroth/Projects/Csharp/Miniräknare/Miniräknare/obj/Debug/Miniräknare.pdb
